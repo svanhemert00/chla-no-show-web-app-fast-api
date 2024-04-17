@@ -1,0 +1,7 @@
+uvicorn==0.29.0
+fastapi==0.110.1
+scikit_learn==1.2.2
+numpy==1.24.3
+pandas==1.5.3
+streamlit==1.31.0
+titlecase==2.4.1
