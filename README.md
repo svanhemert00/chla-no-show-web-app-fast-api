@@ -1,2 +1,2 @@
-# CHLA No-Show Predictions - Fast API Deployment
+# CHLA No-Show Predictions - Containerized Fast API Deployment
 This predictive tool is tailored for professionals affiliated with the Children's Hospital of Los Angeles (CHLA), including physicians, nurses, clerical staff, and administrators. Its primary objective is to enable informed decision-making by forecasting patient attendance at appointments based on provided data. Such insights can facilitate strategic scheduling adjustments, including the consideration of double booking scenarios, among other operational considerations.
